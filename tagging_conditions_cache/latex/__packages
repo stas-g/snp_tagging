@@ -1,0 +1,8 @@
+base
+setwidth
+funfun
+plot3D
+scales
+ggplot2
+magrittr
+data.table
